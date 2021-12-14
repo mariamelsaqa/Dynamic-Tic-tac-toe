@@ -1,0 +1,17 @@
+Name: Mariam Elsaqa
+ID: 900193220
+Section: 2
+
+
+The whole program is zero-based
+Which means:
+Number of counts begins from 0, so when replaying you should consider that
+Index of a character begins from 0
+
+If n = m = 3
+The board is
+
+0	1	2
+3	4	5
+6	7	8
+
