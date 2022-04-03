@@ -1,12 +1,14 @@
-Name: Mariam Elsaqa
-ID: 900193220
-Section: 2
+#Dynamic Tic Tac Toe
+#Name: Mariam Elsaqa
+#ID: 900193220
+#Section: 2
 
 
 The whole program is zero-based
 Which means:
 Number of counts begins from 0, so when replaying you should consider that
 Index of a character begins from 0
+You can choose r=the number of rows and columns.
 
 If n = m = 3
 The board is
